@@ -71,5 +71,14 @@
     "priceCurrency": "PHP",
     "lat": 16.461323,
     "lng": 120.334254
+  },
+    {
+    "id": 214,
+    "name": "Gapuz Grapes, La Union",
+    "imageUrl": "http://4.bp.blogspot.com/-po_cQDFRFZ4/VkNBTnpFe4I/AAAAAAAAGJw/iJC9KrOBVCQ/s1600/10136554.jpg",
+    "price": 200,
+    "priceCurrency": "PHP",
+    "lat": 16.336902, 
+    "lng": 120.479773
   }
 ]
