@@ -65,7 +65,8 @@
   },
    {
     "id": 213,
-    "name": "Pugad Adventure, Pugo La Union",
+    
+    "name": "Gapuz Grapes, Bauang La Union",
     "imageUrl": "https://alt3rnateroute.files.wordpress.com/2015/10/dsc00356-001.jpg",
     "price": 30,
     "priceCurrency": "PHP",
@@ -74,7 +75,7 @@
   },
     {
     "id": 214,
-    "name": "Gapuz Grapes, La Union",
+    "name": "Pugad Adventure, Pugo La Union",
     "imageUrl": "http://4.bp.blogspot.com/-po_cQDFRFZ4/VkNBTnpFe4I/AAAAAAAAGJw/iJC9KrOBVCQ/s1600/10136554.jpg",
     "price": 200,
     "priceCurrency": "PHP",
